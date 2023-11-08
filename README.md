@@ -4,4 +4,6 @@
 
 运行：python exam4sanfm
 
+inputdata: [input_bert_data.csv](https://pan.baidu.com/s/1EEwxaytcYrQBQ4MseMTOQg) (fetch code: kang)
+
 注意过拟合问题
